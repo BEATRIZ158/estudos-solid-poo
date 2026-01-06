@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Beatriz Mesquita\\Documents\\Estudos SOLID e OOP\\InterfaceDesacoplada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{962359F7-8CBE-4563-97C4-BB6841717519}|InterfaceDesacoplada\\InterfaceDesacoplada.csproj|c:\\users\\beatriz mesquita\\documents\\estudos solid e oop\\interfacedesacoplada\\interfacedesacoplada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962359F7-8CBE-4563-97C4-BB6841717519}|InterfaceDesacoplada\\InterfaceDesacoplada.csproj|solutionrelative:interfacedesacoplada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962359F7-8CBE-4563-97C4-BB6841717519}|InterfaceDesacoplada\\InterfaceDesacoplada.csproj|c:\\users\\beatriz mesquita\\documents\\estudos solid e oop\\interfacedesacoplada\\interfacedesacoplada\\registraocorrencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962359F7-8CBE-4563-97C4-BB6841717519}|InterfaceDesacoplada\\InterfaceDesacoplada.csproj|solutionrelative:interfacedesacoplada\\registraocorrencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962359F7-8CBE-4563-97C4-BB6841717519}|InterfaceDesacoplada\\InterfaceDesacoplada.csproj|c:\\users\\beatriz mesquita\\documents\\estudos solid e oop\\interfacedesacoplada\\interfacedesacoplada\\iregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962359F7-8CBE-4563-97C4-BB6841717519}|InterfaceDesacoplada\\InterfaceDesacoplada.csproj|solutionrelative:interfacedesacoplada\\iregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962359F7-8CBE-4563-97C4-BB6841717519}|InterfaceDesacoplada\\InterfaceDesacoplada.csproj|c:\\users\\beatriz mesquita\\documents\\estudos solid e oop\\interfacedesacoplada\\interfacedesacoplada\\registrarnoconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962359F7-8CBE-4563-97C4-BB6841717519}|InterfaceDesacoplada\\InterfaceDesacoplada.csproj|solutionrelative:interfacedesacoplada\\registrarnoconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962359F7-8CBE-4563-97C4-BB6841717519}|InterfaceDesacoplada\\InterfaceDesacoplada.csproj|c:\\users\\beatriz mesquita\\documents\\estudos solid e oop\\interfacedesacoplada\\interfacedesacoplada\\registrarnoarquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962359F7-8CBE-4563-97C4-BB6841717519}|InterfaceDesacoplada\\InterfaceDesacoplada.csproj|solutionrelative:interfacedesacoplada\\registrarnoarquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrarNoConsole.cs",
+              "DocumentMoniker": "C:\\Users\\Beatriz Mesquita\\Documents\\Estudos SOLID e OOP\\InterfaceDesacoplada\\InterfaceDesacoplada\\RegistrarNoConsole.cs",
+              "RelativeDocumentMoniker": "InterfaceDesacoplada\\RegistrarNoConsole.cs",
+              "ToolTip": "C:\\Users\\Beatriz Mesquita\\Documents\\Estudos SOLID e OOP\\InterfaceDesacoplada\\InterfaceDesacoplada\\RegistrarNoConsole.cs",
+              "RelativeToolTip": "InterfaceDesacoplada\\RegistrarNoConsole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T23:37:05.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRegistro.cs",
+              "DocumentMoniker": "C:\\Users\\Beatriz Mesquita\\Documents\\Estudos SOLID e OOP\\InterfaceDesacoplada\\InterfaceDesacoplada\\IRegistro.cs",
+              "RelativeDocumentMoniker": "InterfaceDesacoplada\\IRegistro.cs",
+              "ToolTip": "C:\\Users\\Beatriz Mesquita\\Documents\\Estudos SOLID e OOP\\InterfaceDesacoplada\\InterfaceDesacoplada\\IRegistro.cs",
+              "RelativeToolTip": "InterfaceDesacoplada\\IRegistro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T23:33:05.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistraOcorrencias.cs",
+              "DocumentMoniker": "C:\\Users\\Beatriz Mesquita\\Documents\\Estudos SOLID e OOP\\InterfaceDesacoplada\\InterfaceDesacoplada\\RegistraOcorrencias.cs",
+              "RelativeDocumentMoniker": "InterfaceDesacoplada\\RegistraOcorrencias.cs",
+              "ToolTip": "C:\\Users\\Beatriz Mesquita\\Documents\\Estudos SOLID e OOP\\InterfaceDesacoplada\\InterfaceDesacoplada\\RegistraOcorrencias.cs",
+              "RelativeToolTip": "InterfaceDesacoplada\\RegistraOcorrencias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T23:23:25.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Beatriz Mesquita\\Documents\\Estudos SOLID e OOP\\InterfaceDesacoplada\\InterfaceDesacoplada\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceDesacoplada\\Program.cs",
+              "ToolTip": "C:\\Users\\Beatriz Mesquita\\Documents\\Estudos SOLID e OOP\\InterfaceDesacoplada\\InterfaceDesacoplada\\Program.cs",
+              "RelativeToolTip": "InterfaceDesacoplada\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T23:21:13.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrarNoArquivo.cs",
+              "DocumentMoniker": "C:\\Users\\Beatriz Mesquita\\Documents\\Estudos SOLID e OOP\\InterfaceDesacoplada\\InterfaceDesacoplada\\RegistrarNoArquivo.cs",
+              "RelativeDocumentMoniker": "InterfaceDesacoplada\\RegistrarNoArquivo.cs",
+              "ToolTip": "C:\\Users\\Beatriz Mesquita\\Documents\\Estudos SOLID e OOP\\InterfaceDesacoplada\\InterfaceDesacoplada\\RegistrarNoArquivo.cs",
+              "RelativeToolTip": "InterfaceDesacoplada\\RegistrarNoArquivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T23:41:54.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

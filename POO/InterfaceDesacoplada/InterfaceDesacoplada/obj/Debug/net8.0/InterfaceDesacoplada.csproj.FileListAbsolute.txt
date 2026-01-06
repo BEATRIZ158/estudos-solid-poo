@@ -1,0 +1,14 @@
+C:\Users\Beatriz Mesquita\Documents\Estudos SOLID e OOP\InterfaceDesacoplada\InterfaceDesacoplada\bin\Debug\net8.0\InterfaceDesacoplada.exe
+C:\Users\Beatriz Mesquita\Documents\Estudos SOLID e OOP\InterfaceDesacoplada\InterfaceDesacoplada\bin\Debug\net8.0\InterfaceDesacoplada.deps.json
+C:\Users\Beatriz Mesquita\Documents\Estudos SOLID e OOP\InterfaceDesacoplada\InterfaceDesacoplada\bin\Debug\net8.0\InterfaceDesacoplada.runtimeconfig.json
+C:\Users\Beatriz Mesquita\Documents\Estudos SOLID e OOP\InterfaceDesacoplada\InterfaceDesacoplada\bin\Debug\net8.0\InterfaceDesacoplada.dll
+C:\Users\Beatriz Mesquita\Documents\Estudos SOLID e OOP\InterfaceDesacoplada\InterfaceDesacoplada\bin\Debug\net8.0\InterfaceDesacoplada.pdb
+C:\Users\Beatriz Mesquita\Documents\Estudos SOLID e OOP\InterfaceDesacoplada\InterfaceDesacoplada\obj\Debug\net8.0\InterfaceDesacoplada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beatriz Mesquita\Documents\Estudos SOLID e OOP\InterfaceDesacoplada\InterfaceDesacoplada\obj\Debug\net8.0\InterfaceDesacoplada.AssemblyInfoInputs.cache
+C:\Users\Beatriz Mesquita\Documents\Estudos SOLID e OOP\InterfaceDesacoplada\InterfaceDesacoplada\obj\Debug\net8.0\InterfaceDesacoplada.AssemblyInfo.cs
+C:\Users\Beatriz Mesquita\Documents\Estudos SOLID e OOP\InterfaceDesacoplada\InterfaceDesacoplada\obj\Debug\net8.0\InterfaceDesacoplada.csproj.CoreCompileInputs.cache
+C:\Users\Beatriz Mesquita\Documents\Estudos SOLID e OOP\InterfaceDesacoplada\InterfaceDesacoplada\obj\Debug\net8.0\InterfaceDesacoplada.dll
+C:\Users\Beatriz Mesquita\Documents\Estudos SOLID e OOP\InterfaceDesacoplada\InterfaceDesacoplada\obj\Debug\net8.0\refint\InterfaceDesacoplada.dll
+C:\Users\Beatriz Mesquita\Documents\Estudos SOLID e OOP\InterfaceDesacoplada\InterfaceDesacoplada\obj\Debug\net8.0\InterfaceDesacoplada.pdb
+C:\Users\Beatriz Mesquita\Documents\Estudos SOLID e OOP\InterfaceDesacoplada\InterfaceDesacoplada\obj\Debug\net8.0\InterfaceDesacoplada.genruntimeconfig.cache
+C:\Users\Beatriz Mesquita\Documents\Estudos SOLID e OOP\InterfaceDesacoplada\InterfaceDesacoplada\obj\Debug\net8.0\ref\InterfaceDesacoplada.dll

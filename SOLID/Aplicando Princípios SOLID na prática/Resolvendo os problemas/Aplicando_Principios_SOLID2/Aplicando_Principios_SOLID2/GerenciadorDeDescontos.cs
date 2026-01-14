@@ -13,8 +13,8 @@
             int tempoDeContaEmAnos)
         {
             decimal precoDepoisDoDesconto = 0;
-            decimal descontoPorFidelidade = (tempoDeContaEmAnos > 5) ?
-                (decimal)5 / 100 :
+            decimal descontoPorFidelidade = (tempoDeContaEmAnos > Constantes.DESCONTO_MAXIMO_POR_FEDELIDADE) ?
+                (decimal)Constantes.DESCONTO_MAXIMO_POR_FEDELIDADE / 100 :
                 (decimal)tempoDeContaEmAnos / 100;
 
             switch (statusContaCliente)
@@ -23,17 +23,17 @@
                     precoDepoisDoDesconto = preco;
                     break;
                 case StatusContaCliente.ClienteComum:
-                    precoDepoisDoDesconto = (preco - (0.1m * preco));
+                    precoDepoisDoDesconto = (preco - (Constantes.DESCONTO_CLIENTE_COMUM * preco));
                     precoDepoisDoDesconto = precoDepoisDoDesconto -
                         (descontoPorFidelidade * precoDepoisDoDesconto);
                     break;
                 case StatusContaCliente.ClienteEspecial:
-                    precoDepoisDoDesconto = (0.3m * preco);
+                    precoDepoisDoDesconto = (Constantes.DESCONTO_CLIENTE_ESPECIAL * preco);
                     precoDepoisDoDesconto = precoDepoisDoDesconto -
                         (descontoPorFidelidade * precoDepoisDoDesconto);
                     break;
                 case StatusContaCliente.ClienteVIP:
-                    precoDepoisDoDesconto = (preco - (0.5m * preco));
+                    precoDepoisDoDesconto = (preco - (Constantes.DESCONTO_CLIENTE_VIP * preco));
                     precoDepoisDoDesconto = precoDepoisDoDesconto -
                         (descontoPorFidelidade * precoDepoisDoDesconto);
                     break;

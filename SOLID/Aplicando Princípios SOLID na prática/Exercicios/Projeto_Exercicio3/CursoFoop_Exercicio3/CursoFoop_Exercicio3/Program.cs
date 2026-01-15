@@ -6,7 +6,14 @@ namespace CursoFoop_Exercicio3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ICalcularImpostoPais calc = new CalcularImpostoBrazil();
+            calc.TotalRenda = 1000;
+            calc.TotalDeducao = 100;
+
+            CalcularImposto calcularImp = new CalcularImposto();
+            var valorTotalImposto = calcularImp.Calcular(calc);
+
+            Console.ReadLine();
         }
     }
 }

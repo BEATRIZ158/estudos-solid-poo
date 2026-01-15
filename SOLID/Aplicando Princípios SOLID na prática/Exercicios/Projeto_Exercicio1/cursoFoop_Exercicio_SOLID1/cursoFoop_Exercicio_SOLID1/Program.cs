@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace cursoFoop_Exercicio_SOLID1
+﻿namespace cursoFoop_Exercicio_SOLID1
 {
     class Program
     {

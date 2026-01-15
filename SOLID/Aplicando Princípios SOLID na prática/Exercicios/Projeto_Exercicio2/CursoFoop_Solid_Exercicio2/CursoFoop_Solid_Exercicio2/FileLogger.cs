@@ -1,10 +1,10 @@
 ﻿namespace CursoFoop_Solid_Exercicio2
 {
-    class ConsoleLogger : ILogger
+    class FileLogger : ILogger
     {
         public void Registrar(string mensagem)
         {
-            Console.WriteLine(mensagem);
+            File.WriteAllText(@"C:\Dados\Teste.txt", mensagem);
         }
     }
 }
